@@ -9,7 +9,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 <h2>Aim and objectives of the project</h2>
 Attain Sarbanes-Oxley (SOX), is always being challenge for organisations, particularly those operating in the domain of Finance. Knowing how to implement practically security controls to meet the internal control requirement of Sarbanes-Oxley is a must. This project aims to design and simulate industry-based IT intrastate through network simulation environment and implement appropriated security controls.
 <br />
-<h3></h3>As objectives, the project seeks to:<h3/>
+<h3>As objectives, the project seeks to:</h3>
 <p>
 •	Design an industry or Corporate network infrastructure that aligns with the requirements of SOX compliance. 
 The designed network will replicate a real-world IT infrastructure and will be used to implement and test security.<br />
