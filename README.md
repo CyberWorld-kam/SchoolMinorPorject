@@ -26,7 +26,7 @@ The new system has a huge number of requirements, such as:<br/>
 <b>•	Network and security devices requirements:</b>  a Firewall, switches, routers, as well as network management tools.<br/>
 
 <h2>Requirements of the Sarbanes-Oxley Act</h2>
-The Sarbanes-Oxley Act imposes several requirements on companies to promote accountability and transparency in financial reporting. These requirements include:<br/>
+The Sarbanes-Oxley Act imposes several requirements on companies to promote accountability and transparency in financial reporting. These requirements include:<br/><br/>
 <b>•	Prevent Data Tampering and monitor for breaches:</b> Implement measures to prevent unauthorized tampering with financial data and monitor for any breaches or unauthorized access.<br/>
 <b>•	Document activity timelines and encrypt the data:</b> Maintain detailed records of activities related to financial data and implement encryption measures to protect the confidentiality of sensitive information.<br/>
 <b>•	Install access tracking controls that identify breaches:</b> Implement controls that track and monitor access to financial systems and detect any unauthorized breaches.<br/>
@@ -38,14 +38,14 @@ The Sarbanes-Oxley Act imposes several requirements on companies to promote acco
 <b>•	Report technical difficulties to auditors and avoid stalls or hangups: </b>Communicate any technical difficulties or issues to auditors promptly to prevent delays or disruptions in the audit process.
 
 <h2>Internal controls checklist:</h2>
-In this project our concern is the internal control which includes IT controls. Internal controls checklist can be resume to:<br/>
+In this project our concern is the internal control which includes IT controls. Internal controls checklist can be resume to:<br/><br/>
 <b>•	Access control:</b> This refers to both the physical and electronic controls that prevent unauthorized users from viewing sensitive financial information. This includes keeping servers and data centers in secure locations, implementing effective password controls, and other measures.<br/>
 <b>•	Security and cyber security:</b> Ensure that proper controls are in place to prevent data breaches and have tools ready to remediate incidents. Invest in services and equipment that will monitor and protect your financial database<br/>
 <b>•	Change management:</b> This involves the IT department process for adding new users and computers, updating and installing new software, and making any changes to databases or other data infrastructure components. Keep records of what was changed, in addition to when it was changed and who changed it.<br/>
 <b>•	Backup systems: </b>Maintain backup systems to protect sensitive data. Data canters containing backed-up data, including those stored off-site or by a third-party are also subject to the same SOX compliance requirements as those hosted on-site.
 
-<h2>Tools and Technology used</h2>:
-HP Z2 Tower (Host machine)	<br/><br/>
+<h2>Tools and Technology used:</h2>
+HP Z2 Tower (Host machine)	<br/>
 GNS3 server VM	(Virtual machine)<br/>
 GNS3 Client (	Software)<br/>
 VMware Pro	(software)<br/>
