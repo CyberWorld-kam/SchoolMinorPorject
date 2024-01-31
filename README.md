@@ -17,7 +17,7 @@ The designed network will replicate a real-world IT infrastructure and will be u
 •	Implement the identified security controls within the network infrastructure simulated. This involves configuring and deploying appropriate technologies.
 </p>
 
-<h2Requirement of the New syste</h2>(After Literature Review)
+<h2>Requirement of the New system (After Literature Review)</h2>
 
 The new system has a huge number of requirements, such as:<br/>
 <b>A Virtual Lab</b><br/>
