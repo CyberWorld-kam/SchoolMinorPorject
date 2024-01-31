@@ -62,7 +62,7 @@ QMU image(qcow2)	(appliance)<br/>
 <h2>Nework block Diagram</h2>
 
 ![image](https://github.com/CyberWorld-kam/SchoolMinorPorject/assets/157485250/851f3782-d4c3-49b5-818b-25579b77edd3)
-<h3>architecture in GNS3:</h3>
+<h3>Architecture in GNS3:</h3>
 
 
 ![image](https://github.com/CyberWorld-kam/SchoolMinorPorject/assets/157485250/b79e2572-8043-4d92-8b4d-7044bb4972dd)
