@@ -81,7 +81,7 @@ QMU image(qcow2)	(appliance)<br/>
 
 <h3>IT security and Audit:</h3>
 <b>•	Objectives:</b> track activities in order to prevent data breaches, detect and respond to incident<br/>
-<b>•	Methodology:</b> we installed a log collection and monitoring tools called ManageEngine EvnetLog Analyzer which collects logs from the devices and facilitate their analysis.
+<b>• Methodology:</b> we installed a log collection and monitoring tools called ManageEngine EvnetLog Analyzer which collects logs from the devices and facilitate their analysis.
 
 ![image](https://github.com/CyberWorld-kam/SchoolMinorPorject/assets/157485250/08efd3c4-77ee-4549-93b7-73a5b5fa9470)
 
@@ -96,7 +96,7 @@ Event Loging – compliance and security assessments
 <h3>Access controls: using ACtive Directory and Firewall</h3>
 
 <b>•	The objective:</b> access controls implementation aims Prevent unauthorized users from viewing sensitive financial information. <br/>
-<b>	Methodology: </b>to achieve access control requirement, we installed and configured Active directory and domain controller to:<br/>
+<b>•	Methodology: </b>to achieve access control requirement, we installed and configured Active directory and domain controller to:<br/>
 1. join computers for access management, <br/>
 2. manage user access privilege,<br/>
 3. user account and access provisioning.<br/>
