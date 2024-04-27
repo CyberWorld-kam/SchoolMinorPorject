@@ -2,8 +2,37 @@
 
  ### [I am also doing Security Awareness](https://www.facebook.com/profile.php?id=100086563703368&mibextid=ZbWKwL)
 
- <h2>Project Descrption</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+ <h2>Abstract</h2>
+In today's business environment, organizations face significant challenges in achieving and
+maintaining compliance with regulatory requirements while ensuring the security of their
+sensitive data. This project proposes a comprehensive framework that combines industry
+simulation design and robust IT security controls to address these challenges.
+One of the major challenges organizations encounters is the ever-evolving regulatory
+landscape, which necessitates continuous monitoring and adaptation to meet the requirements
+of regulations like Sarbanes-Oxley (SOX). Compliance with complex regulations demands a
+deep understanding of the rules, proactive measures, and effective control implementation.
+Data security and privacy concerns pose another significant challenge as organizations must
+
+protect their financial data from threats such as unauthorized access, data breaches, and cyber-
+attacks. Achieving compliance with SOX requires the implementation of robust IT security
+
+controls to safeguard sensitive information.
+The complexity of modern IT infrastructures further complicates compliance efforts.
+Coordinating and integrating diverse systems, networks, and applications to meet SOX
+requirements can be daunting, especially when dealing with legacy systems or hybrid cloud
+environments. Additionally, cost and resource constraints present ongoing challenges as
+organizations strive to implement and maintain the necessary IT infrastructure, tools, and
+skilled personnel for SOX compliance. Finding cost-effective solutions and efficient resource
+allocation becomes crucial. Continuous monitoring and auditing are vital for demonstrating
+ongoing compliance with SOX. Implementing controls that enable real-time monitoring and
+automated reporting can be challenging but are necessary to ensure compliance readiness and
+identify potential issues promptly.
+The project offers a comprehensive solution to these challenges. By leveraging industry
+simulation design, organizations can create realistic testing environments to assess and refine
+their compliance strategies. Additionally, implementing robust IT security controls helps
+mitigate risks, protect sensitive data, and ensure a strong security posture.
+
+Keywords: Compliance, Sarbanes-Oxley (SOX), security, regulatory
 <br />
 
 <h2>Aim and objectives of the project</h2>
